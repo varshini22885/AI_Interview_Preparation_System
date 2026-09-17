@@ -221,12 +221,6 @@ docker-compose.yml
 README.md
 ```
 
-## Team Contribution Structure
-
-- **Backend:** Varshini.
-- **Infrastructure and environment:** the team member responsible for credentials and deployment configuration.
-- **Frontend:** frontend team members.
-
 ## Current Project Status
 
 **Implemented in code:** React/Vite frontend, FastAPI REST API, authentication, interview state machine, resume and interview services, AI provider interfaces and NVIDIA adapters, realtime sessions and WebSocket contracts, Celery task pipeline, storage interface, SQLAlchemy models, Alembic migrations, answer idempotency, reports, documentation, and automated tests.
